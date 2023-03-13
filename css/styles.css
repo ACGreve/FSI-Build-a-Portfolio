@@ -1,11 +1,30 @@
 img{
     border-radius:50%;
-    margin-left:auto;
-    margin-right:auto;
-    text-align:center;
+    height:300px;
+  float:left;
+  margin:20px;
+}
+p{
+  text-align:justify;
+  margin-right:20px;
+}
+h1,h2{
+  text-align:center;
 }
 div{
     line-height:1.8em;
-    background:darkgreen;
-    border-style:solid
+    background:#aee6e7;
+    border-style:solid;
+      height:475px;
     }
+.contact{
+  float:right;
+  margin-right:20px;
+  margin-top:-25px;
+  background-image: linear-gradient(#ebb263,#047725);
+  text-align:center;
+  height:150px;
+  width:250px;
+  padding-left:50px;
+  border-radius:90% 0% 90% 0%;
+}
